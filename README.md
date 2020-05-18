@@ -1,4 +1,4 @@
-# Data Visualization in Powe BI - Youth and Adult Literacy Rates
+# Analyzing and Visualizing Youth and Adult Literacy Rates
 
 This repository contains the files that I used to gather, assess, clean, and explore the dataset about Youth and Adult Literacy Rates and produce the next visualization.
 
