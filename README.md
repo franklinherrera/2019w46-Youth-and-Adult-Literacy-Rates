@@ -1,7 +1,8 @@
-# 2019w46-Youth-and-Adult-Literacy-Rates
+# Data Visualization in Powe BI - Youth and Adult Literacy Rates
 
-This repository contains the files that I used to produce the next visualization.
+This repository contains the files that I used to gather, assess, clean, and explore the dataset about Youth and Adult Literacy Rates and produce the next visualization.
 
+## Data Visualization
 ![Imagen](https://github.com/franklinherrera/2019w46-Youth-and-Adult-Literacy-Rates/blob/master/how%20the%20literacy%20rate%20has%20changed%20worldwide.png)
 
 ## Power BI file
